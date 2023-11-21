@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class T11ReverseMatrixDiagonals {
+public class ReverseMatrixDiagonals {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
 

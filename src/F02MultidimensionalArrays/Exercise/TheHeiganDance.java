@@ -2,7 +2,7 @@ package F02MultidimensionalArrays.Exercise;
 
 import java.util.Scanner;
 
-public class T08TheHeiganDance {
+public class TheHeiganDance {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

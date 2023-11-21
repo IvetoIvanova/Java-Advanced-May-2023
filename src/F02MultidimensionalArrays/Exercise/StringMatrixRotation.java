@@ -3,7 +3,7 @@ package F02MultidimensionalArrays.Exercise;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class T06StringMatrixRotation {
+public class StringMatrixRotation {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

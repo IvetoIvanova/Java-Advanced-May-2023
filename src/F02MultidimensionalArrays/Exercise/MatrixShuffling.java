@@ -2,7 +2,7 @@ package F02MultidimensionalArrays.Exercise;
 
 import java.util.Scanner;
 
-public class T05MatrixShuffling {
+public class MatrixShuffling {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String dimensions = scanner.nextLine();

@@ -2,7 +2,7 @@ package F02MultidimensionalArrays.Exercise;
 
 import java.util.Scanner;
 
-public class T01FillTheMatrix {
+public class FillTheMatrix {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -3,7 +3,7 @@ package F02MultidimensionalArrays.Exercise;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class T10RadioactiveMutantVampireBunnies {
+public class RadioactiveMutantVampireBunnies {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
