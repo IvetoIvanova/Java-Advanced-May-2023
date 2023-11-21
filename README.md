@@ -38,8 +38,6 @@ The repository is organized into folders corresponding to different topics.
   - `Lab`
   - `Exercise`
 - `Algorithms Workshop`
-  - `Lab`
-  - `Exercise`
 - `Exam Tasks`
  
 
